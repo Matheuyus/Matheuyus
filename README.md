@@ -1,7 +1,7 @@
 # 👤 Matheus Maciel
 **`Desenvolvedor fullStack`**
 
-Eu Me chamo Matheus Maciel dos Santos, Natural de São Paulo, tenho 22 anos, ensino medio concluido e atualmente estou cursando Ciencias da Computação.
+Eu me chamo Matheus Maciel dos Santos, Natural de São Paulo, tenho 22 anos, ensino medio concluido e atualmente estou cursando Ciencias da Computação.
 
 <p align="left">
     </a> 
